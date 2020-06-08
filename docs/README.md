@@ -20,8 +20,7 @@ _Gorry Fairhurst, Tom Jones, Raffaele Zullo_ -
 **A Tale of Two Checksums**, 
 IETF Meeting 103 MAPRG, 
 2018, 
-[Abstract](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-abstract.pdf), 
-[Presentation](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-slides.pdf) 
+[Abstract](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-abstract.pdf)
 
 ### IETF Internet-Drafts
 _Gorry Fairhurst, Tom Jones, Raffaele Zullo_ - 
@@ -29,14 +28,14 @@ _Gorry Fairhurst, Tom Jones, Raffaele Zullo_ -
 draft-fairhurst-udp-options-cco-00, 
 IETF, 
 2018, 
-[I-D](http://www.middleboxes.org/raffaelezullo/publications/draft-fairhurst-udp-options-cco.pdf) 
+[Internet-Draft](http://www.middleboxes.org/raffaelezullo/publications/draft-fairhurst-udp-options-cco.pdf) 
 
 ### Technical reports
 _Benoit Donnet, Korian Edeline, Raffaele Zullo, Brian Trammell et al._ - 
 **MAMI Report on Measurement Development and Deployment**, 
 MAMI Project, 
 2016, 
-[Report](http://www.middleboxes.org/raffaelezullo/publications/mami2016.pdf) 
+[Technical Report](http://www.middleboxes.org/raffaelezullo/publications/mami2016.pdf) 
 
 ### Presentations
 _Raffaele Zullo_ - 
