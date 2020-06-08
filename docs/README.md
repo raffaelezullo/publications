@@ -6,13 +6,13 @@ _Raffaele Zullo, Antonio Pescape, Korian Edeline, Benoit Donnet_ -
 **Hic Sunt Proxies: Unveiling Proxy Phenomena in Mobile Networks**, 
 Network Traffic Measurement and Analysis Conference (TMA), IFIP, 
 2019,
-[Paper](http://www.middleboxes.org/raffaelezullo/publications/tma2019-zullo-proxies.pdf)
+[PDF](http://www.middleboxes.org/raffaelezullo/publications/tma2019-zullo-proxies.pdf)
 
 _Raffaele Zullo, Antonio Pescape, Korian Edeline, Benoit Donnet_ - 
 **Hic Sunt NATs: Uncovering Address Translation with a Smart Traceroute**, 
 Network Traffic Measurement and Analysis Conference (TMA), IFIP IEEE, 
 2017, 
-[Paper](http://www.middleboxes.org/raffaelezullo/publications/tma2017-zullo-nats.pdf)
+[PDF](http://www.middleboxes.org/raffaelezullo/publications/tma2017-zullo-nats.pdf)
 
 ### IETF Meetings Proceedings
 
@@ -20,7 +20,7 @@ _Gorry Fairhurst, Tom Jones, Raffaele Zullo_ -
 **A Tale of Two Checksums**, 
 IETF Meeting 103 MAPRG, 
 2018, 
-[Abstract](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-abstract.pdf)
+[PDF](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-abstract.pdf)
 
 ### IETF Internet-Drafts
 _Gorry Fairhurst, Tom Jones, Raffaele Zullo_ - 
@@ -28,7 +28,7 @@ _Gorry Fairhurst, Tom Jones, Raffaele Zullo_ -
 draft-fairhurst-udp-options-cco-00, 
 IETF, 
 2018, 
-[Internet-Draft](http://www.middleboxes.org/raffaelezullo/publications/draft-fairhurst-udp-options-cco.pdf) 
+[PDF](http://www.middleboxes.org/raffaelezullo/publications/draft-fairhurst-udp-options-cco.pdf) 
 
 ### Technical reports
 _Benoit Donnet, Korian Edeline, Raffaele Zullo, Brian Trammell et al._ - 
