@@ -7,14 +7,12 @@ _Raffaele Zullo, Antonio Pescape, Korian Edeline, Benoit Donnet_ -
 Network Traffic Measurement and Analysis Conference (TMA), IFIP, 
 2019,
 [Paper](http://www.middleboxes.org/raffaelezullo/publications/tma2019-zullo-proxies.pdf)
-[Slides](http://www.middleboxes.org/raffaelezullo/publications/tma2019-zullo-proxies-slides.pdf) 
 
 _Raffaele Zullo, Antonio Pescape, Korian Edeline, Benoit Donnet_ - 
 **Hic Sunt NATs: Uncovering Address Translation with a Smart Traceroute**, 
 Network Traffic Measurement and Analysis Conference (TMA), IFIP IEEE, 
 2017, 
 [Paper](http://www.middleboxes.org/raffaelezullo/publications/tma2017-zullo-nats.pdf)
-[Presentation](http://www.middleboxes.org/raffaelezullo/publications/tma2017-zullo-nats-slides.pdf) 
 
 ### IETF Meetings Proceedings
 
@@ -38,7 +36,7 @@ _Benoit Donnet, Korian Edeline, Raffaele Zullo, Brian Trammell et al._ -
 **MAMI Report on Measurement Development and Deployment**, 
 MAMI Project, 
 2016, 
-[Abstract](http://www.middleboxes.org/raffaelezullo/publications/mami2016.pdf) 
+[Report](http://www.middleboxes.org/raffaelezullo/publications/mami2016.pdf) 
 
 ### Presentations
 _Raffaele Zullo_ - 
