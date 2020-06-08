@@ -6,7 +6,7 @@ _Raffaele Zullo, Antonio Pescape, Korian Edeline, Benoit Donnet_ -
 **Hic Sunt Proxies: Unveiling Proxy Phenomena in Mobile Networks**, 
 Network Traffic Measurement and Analysis Conference (TMA), IFIP, 
 2019,
-[PDF](http://www.middleboxes.org/raffaelezullo/publications/tma2019-zullo-proxies.pdf)
+[**PDF**](http://www.middleboxes.org/raffaelezullo/publications/tma2019-zullo-proxies.pdf)
 
 _Raffaele Zullo, Antonio Pescape, Korian Edeline, Benoit Donnet_ - 
 **Hic Sunt NATs: Uncovering Address Translation with a Smart Traceroute**, 
