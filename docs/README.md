@@ -26,8 +26,11 @@ _Gorry Fairhurst, Tom Jones, Raffaele Zullo_ -
 **A Tale of Two Checksums**, 
 IETF Meeting 103 MAPRG, 
 2018, 
-[**PDF**(Abstract)](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-abstract.pdf)
-[**PDF**(Presentation](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-slides.pdf) 
+[**PDF** (Abstract)](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-abstract.pdf)
+[**PDF** (Presentation)](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-slides.pdf) 
+[**Abstract**](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-abstract.pdf)
+[**Presentation**)](http://www.middleboxes.org/raffaelezullo/publications/ietf103-maprg-cco-slides.pdf) 
+
 
 ### IETF Internet-Drafts
 _Gorry Fairhurst, Tom Jones, Raffaele Zullo_ - 
