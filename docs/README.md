@@ -18,7 +18,7 @@ _Raffaele Zullo, Antonio Pescape, Korian Edeline, Benoit Donnet_ -
 **Hic Sunt NATs: Uncovering Address Translation with a Smart Traceroute**, 
 Network Traffic Measurement and Analysis Conference (TMA), IFIP IEEE, 
 2017, 
-[**PDF**](http://www.middleboxes.org/raffaelezullo/publications/tma2017-zullo-uncovering-nats.pdf)
+[**PDF**](http://www.middleboxes.org/raffaelezullo/publications/tma2017-zullo-traceroute-nats.pdf)
 
 ### IETF Meetings Proceedings
 
@@ -66,4 +66,4 @@ _Raffaele Zullo_ -
 **Uncovering Address Translation with a Smart Traceroute**, 
 Network Traffic Measurement and Analysis Conference (TMA) Mobile Network Measurements (MNM), 
 Maynooth University Dublin, 2017, 
-[**PDF**](http://www.middleboxes.org/raffaelezullo/publications/tma2017-zullo-nats-uncovering-slides.pdf) 
+[**PDF**](http://www.middleboxes.org/raffaelezullo/publications/tma2017-zullo-nats-traceroute-slides.pdf) 
