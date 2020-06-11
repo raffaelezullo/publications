@@ -46,7 +46,7 @@ MAMI Project,
 
 ### Presentations
 
-_Raffaele Zullo, Tom Jones, Gorry Fairhurst_ - 
+_Raffaele Zullo_ - 
 **Overcoming the Sorrows of the Young UDP Options**, 
 Network Traffic Measurement and Analysis Conference (TMA),
 ~~TU Berlin~~ Virtual, 2020,
