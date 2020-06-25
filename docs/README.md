@@ -49,7 +49,7 @@ MAMI Project,
 _Raffaele Zullo_ - 
 **Overcoming the Sorrows of the Young UDP Options**, 
 Network Traffic Measurement and Analysis Conference (TMA),
-~~TU Berlin~~ Virtual, 2020,
+TU Berlin (Virtual), 2020,
 [**PDF**](http://middleboxes.org/raffaelezullo/publications/tma2020-zullo-udp-options-slides.pdf) 
 
 _Raffaele Zullo_ - 
