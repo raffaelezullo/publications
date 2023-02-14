@@ -1,8 +1,6 @@
 ## Publications
 
-### International Conference Proceedings
-
-
+### Journals
 
 _Naomi Jacobs , Fi Loveday, Milan Markovic, Caitlin D. Cottrill, Raffaele Zullo, Peter Edwards_
 **Prototyping an IoT Transparency Toolkit to Support Communication, Governance and Policy in the Smart City**
@@ -10,7 +8,8 @@ The Design Journal
 2022
 [**PDF**](http://www.middleboxes.org/raffaelezullo/publications/thedesignjournal2022-jacobs-prototyping.pdf)
 
-Raffaele Zullob and Peter Edwards
+### International Conference Proceedings
+
 _Raffaele Zullo, Tom Jones, Gorry Fairhurst_ - 
 **Overcoming the Sorrows of the Young UDP Options**, 
 Network Traffic Measurement and Analysis Conference (TMA), IFIP, 
