@@ -2,10 +2,10 @@
 
 ### International Journals
 
-_Naomi Jacobs , Fi Loveday, Milan Markovic, Caitlin D. Cottrill, Raffaele Zullo, Peter Edwards_
-**Prototyping an IoT Transparency Toolkit to Support Communication, Governance and Policy in the Smart City**
-The Design Journal
-2022
+_Naomi Jacobs , Fi Loveday, Milan Markovic, Caitlin D. Cottrill, Raffaele Zullo, Peter Edwards_ - 
+**Prototyping an IoT Transparency Toolkit to Support Communication, Governance and Policy in the Smart City**,
+The Design Journal, 
+2022, 
 [**PDF**](http://www.middleboxes.org/raffaelezullo/publications/thedesignjournal2022-jacobs-prototyping.pdf)
 
 ### International Conference Proceedings
